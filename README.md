@@ -76,4 +76,4 @@ University, employer, course-provider, association, and competition logos retain
 
 ## Contact
 
-[Portfolio](https://someshmridhaofficial.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/somesh-mridha-7b853326b/) · [Email](mailto:someshmridha.official@gmail.com)
+[Portfolio](https://someshmridhaofficial.netlify.app/) · [GitHub profile](https://github.com/someshmridha) · [LinkedIn](https://www.linkedin.com/in/somesh-mridha-7b853326b/) · [Email](mailto:someshmridha.official@gmail.com)
