@@ -1,0 +1,901 @@
+{
+  "translations": {
+    "en": {
+      "skip": "Skip to content",
+      "brandSub": "ENGINEERING & RESEARCH",
+      "menu": "Menu",
+      "navWork": "Selected work",
+      "navAbout": "About",
+      "navContact": "Contact ↗",
+      "location": "OSAKA, JAPAN · ENGINEERING PORTFOLIO",
+      "heroLine1": "From signals",
+      "heroLine2": "to systems.",
+      "intro": "I’m Somesh Mridha, a master’s student at The University of Osaka. I use modelling, simulation, and careful experiments to understand and improve engineering systems.",
+      "explore": "Explore my work",
+      "resume": "Résumé · PDF",
+      "heroFoot": "Wireless communications. Intelligent control. Energy systems.",
+      "visualLabel": "CONCEPTUAL SIGNAL ILLUSTRATION",
+      "scaleLabel": "A closer look at my research practice",
+      "scale1": "estimator variants compared",
+      "scale2": "channel / SNR conditions",
+      "scale3": "paired simulation frames",
+      "scaleNote": "Osaka research · October 2026 evaluation",
+      "workEyebrow": "01 / SELECTED WORK",
+      "workTitle": "Three projects. One engineering mindset.",
+      "workIntro": "Understand the system. Build a model. Test the assumptions.",
+      "filterAll": "All work",
+      "filterComms": "Communications",
+      "filterControl": "Control & AI",
+      "filterEnergy": "Energy",
+      "researchMeta": "MASTER’S RESEARCH · IN PROGRESS",
+      "researchTitle": "Finding a clearer signal from space.",
+      "researchDesc": "Investigating low-complexity Doppler estimation and compensation for OFDM-based LEO satellite communications at The University of Osaka.",
+      "signalProcessing": "Signal processing",
+      "myWork": "MY WORK",
+      "researchContribution": "Receiver simulation, estimator implementation, controlled comparisons, and statistical evaluation.",
+      "readCase": "Read the case study",
+      "realData": "FROM MY SIMULATION RESULTS",
+      "chartTitle": "Doppler trajectory error",
+      "channelLabel": "Synthetic channel",
+      "chartCaveat": "Synthetic-channel simulations. Gains are localized at 0 dB; a consistent BER advantage has not been established.",
+      "architecture": "CONCEPTUAL SYSTEM ARCHITECTURE",
+      "teamProject": "VIT · UNDERGRADUATE TEAM PROJECT",
+      "motorTitle": "Learning to control a motor.",
+      "motorDesc": "Exploring reinforcement learning with field-oriented control for a permanent magnet synchronous motor, compared with a conventional PI controller.",
+      "rl": "Reinforcement learning",
+      "energyTitle": "Connecting sunlight to electric mobility.",
+      "energyDesc": "Modelling a solar PV-fed wireless charging chain with power conversion, battery charging, backup supply, and load-detection logic.",
+      "powerElectronics": "Power electronics",
+      "wpt": "Wireless power",
+      "approachEyebrow": "02 / HOW I WORK",
+      "approachTitle": "Good engineering asks better questions.",
+      "approachIntro": "A result matters when you can explain how you reached it—and where it stops being reliable.",
+      "method1Title": "Understand",
+      "method1": "Define the system, the question, and a measurable baseline.",
+      "method2Title": "Model",
+      "method2": "Translate physical behaviour into a simulation with explicit assumptions.",
+      "method3Title": "Challenge",
+      "method3": "Compare alternatives under matched conditions. Investigate unexpected results.",
+      "method4Title": "Communicate",
+      "method4": "Document the evidence, limitations, and next decision clearly.",
+      "aboutEyebrow": "03 / THE ENGINEER BEHIND THE WORK",
+      "aboutTitle": "Curiosity, with a method.",
+      "aboutLead": "My path connects electrical engineering with communication systems—and a growing interest in how intelligent methods can improve both.",
+      "aboutBody": "From motor feedback loops and wireless power to satellite receivers, I enjoy breaking complex systems into parts I can model, test, and explain. I’m building that practice through my master’s research in Osaka.",
+      "skillsTitle": "Tools & methods",
+      "skillsBody": "Digital signal processing · Monte Carlo simulation · Least squares · Controller evaluation · Model validation",
+      "languagesTitle": "Communication",
+      "languagesBody": "English: fluent · Japanese: basic (N5 level)",
+      "education": "EDUCATION",
+      "osakaDegree": "Master of Engineering (in progress)\nElectrical, Electronic and Infocommunications Engineering",
+      "graduation": "*Expected graduation: September 2027",
+      "vitDegree": "Bachelor of Technology\nElectrical and Electronics Engineering",
+      "industry": "INDUSTRY EXPOSURE",
+      "internship": "Research & Development Intern\nExposure to power distribution, substations, protection systems, and maintenance.",
+      "leadership": "LEADERSHIP",
+      "boardMember": "Board Member",
+      "designExperience": "VIT Mathematical Association\nLed design work, created event media, and organised the Dez-O-Quest designathon.",
+      "contactEyebrow": "04 / WHAT’S NEXT",
+      "contactLine1": "Let’s work on",
+      "contactLine2": "a better question.",
+      "contactBody": "Interested in engineering opportunities in Japan, especially wireless communications, simulation, control, and energy systems.",
+      "emailLabel": "GET IN TOUCH",
+      "linkedinLabel": "PROFESSIONAL PROFILE",
+      "resumeLabel": "EXPERIENCE AT A GLANCE",
+      "downloadResume": "View résumé · PDF",
+      "copyEmail": "Copy email address",
+      "copied": "Email address copied.",
+      "copyFallback": "Please copy: someshmridha.official@gmail.com",
+      "footerNote": "Built on curiosity. Grounded in evidence.",
+      "backTop": "Back to top ↑",
+      "caseEyebrow": "PROJECT NOTES / SOMESH MRIDHA",
+      "discuss": "Discuss this project",
+      "closeCase": "Close case study",
+      "institution": "Institution",
+      "period": "Period / status",
+      "role": "My contribution",
+      "tools": "Tools & methods",
+      "problem": "The question",
+      "implementation": "What I worked on",
+      "evidence": "Evidence & interpretation",
+      "limitations": "Scope & limitations",
+      "takeaway": "Engineering takeaway",
+      "dataHeading": "Explore the numbers",
+      "dataCaption": "Mean trajectory RMSE in Hz. 200 paired frames per condition. Values rounded to three decimals. Source: October 2026 smoothing-ablation Estimator_Summary.csv. Channel selected on the main page.",
+      "tableSNR": "SNR (dB)",
+      "chartX": "SNR / dB",
+      "chartDesc": "Mean Doppler trajectory RMSE versus SNR; raw LS and raw WLS in a fixed synthetic multipath channel. Numerical values are available in the case study."
+    },
+    "ja": {
+      "skip": "本文へ移動",
+      "brandSub": "エンジニアリング・研究",
+      "menu": "メニュー",
+      "navWork": "プロジェクト",
+      "navAbout": "プロフィール",
+      "navContact": "お問い合わせ ↗",
+      "location": "大阪・日本 · エンジニアリングポートフォリオ",
+      "heroLine1": "信号から、",
+      "heroLine2": "システムへ。",
+      "intro": "大阪大学の修士課程で学ぶ Somesh Mridha です。モデリング、シミュレーション、丁寧な検証を通じて、工学システムの理解と改善に取り組んでいます。",
+      "explore": "プロジェクトを見る",
+      "resume": "英文レジュメ · PDF",
+      "heroFoot": "無線通信。知的制御。エネルギーシステム。",
+      "visualLabel": "信号と衛星通信の概念図",
+      "scaleLabel": "研究で大切にしている検証の規模",
+      "scale1": "比較した推定器の構成",
+      "scale2": "チャネル・SNR条件",
+      "scale3": "対応のあるシミュレーションフレーム",
+      "scaleNote": "大阪大学での研究 · 2026年10月の評価",
+      "workEyebrow": "01 / 主なプロジェクト",
+      "workTitle": "3つのテーマに、共通する工学の姿勢。",
+      "workIntro": "システムを理解し、モデルをつくり、仮定を検証する。",
+      "filterAll": "すべて",
+      "filterComms": "通信",
+      "filterControl": "制御・AI",
+      "filterEnergy": "エネルギー",
+      "researchMeta": "修士研究 · 進行中",
+      "researchTitle": "宇宙からの信号を、より明瞭に。",
+      "researchDesc": "大阪大学で、OFDMを用いた低軌道衛星通信の低演算量ドップラー推定・補償手法を研究しています。",
+      "signalProcessing": "信号処理",
+      "myWork": "担当したこと",
+      "researchContribution": "受信機シミュレーション、推定器の実装、条件を揃えた比較、統計的評価。",
+      "readCase": "詳しい取り組みを見る",
+      "realData": "実際のシミュレーション結果",
+      "chartTitle": "ドップラー軌跡の推定誤差",
+      "channelLabel": "合成チャネル",
+      "chartCaveat": "合成チャネルでのシミュレーションです。改善は0 dBの特定条件に限られ、一貫したBERの優位性は確認されていません。",
+      "architecture": "システム構成の概念図",
+      "teamProject": "VIT · 学部チームプロジェクト",
+      "motorTitle": "学習を用いたモーター制御。",
+      "motorDesc": "永久磁石同期モーターのベクトル制御に強化学習を組み合わせ、従来のPI制御との比較に取り組みました。",
+      "rl": "強化学習",
+      "energyTitle": "太陽光と電動モビリティをつなぐ。",
+      "energyDesc": "電力変換、バッテリー充電、バックアップ電源、負荷検出ロジックを組み合わせた、太陽光発電によるワイヤレス充電のモデルを構築しました。",
+      "powerElectronics": "パワーエレクトロニクス",
+      "wpt": "ワイヤレス電力伝送",
+      "approachEyebrow": "02 / 取り組み方",
+      "approachTitle": "より良い問いから、工学は進む。",
+      "approachIntro": "結果に至る過程と、その結果が成り立つ範囲を説明することを大切にしています。",
+      "method1Title": "理解する",
+      "method1": "対象のシステム、解くべき問い、比較の基準を明確にします。",
+      "method2Title": "モデルにする",
+      "method2": "物理的な振る舞いを、仮定を明示したシミュレーションに落とし込みます。",
+      "method3Title": "確かめる",
+      "method3": "同じ条件で手法を比較し、予想外の結果の理由を調べます。",
+      "method4Title": "伝える",
+      "method4": "根拠、限界、次に判断すべき点を分かりやすく記録します。",
+      "aboutEyebrow": "03 / プロフィール",
+      "aboutTitle": "好奇心を、検証につなげる。",
+      "aboutLead": "電気工学から通信システムへ。知的な手法で両分野を改善することに関心を持っています。",
+      "aboutBody": "モーターのフィードバック制御、ワイヤレス電力伝送、衛星受信機。複雑なシステムを、モデル化・検証・説明できる要素に分けて考えることが好きです。大阪での修士研究を通じて、その力を磨いています。",
+      "skillsTitle": "ツール・手法",
+      "skillsBody": "デジタル信号処理 · モンテカルロシミュレーション · 最小二乗法 · 制御器の評価 · モデル検証",
+      "languagesTitle": "使用言語",
+      "languagesBody": "英語：堪能 · 日本語：基礎（N5相当）",
+      "education": "学歴",
+      "osakaDegree": "工学修士課程\n電気・電子・情報通信工学分野",
+      "graduation": "*2027年9月修了予定",
+      "vitDegree": "工学学士\n電気電子工学",
+      "industry": "実務に触れた経験",
+      "internship": "研究開発インターン\n配電、変電所、保護システム、保守業務について学びました。",
+      "leadership": "リーダーシップ",
+      "boardMember": "運営委員（Board Member）",
+      "designExperience": "VIT Mathematical Association\nデザイン業務を率い、イベント広報物の制作とDez-O-Questの運営に携わりました。",
+      "contactEyebrow": "04 / これから",
+      "contactLine1": "次の問いを、",
+      "contactLine2": "一緒に考える。",
+      "contactBody": "日本でのエンジニアとしての機会に関心があります。特に無線通信、シミュレーション、制御、エネルギーシステムに取り組みたいと考えています。",
+      "emailLabel": "メールでのお問い合わせ",
+      "linkedinLabel": "プロフィール",
+      "resumeLabel": "経験を一覧で確認",
+      "downloadResume": "英文レジュメを見る · PDF",
+      "copyEmail": "メールアドレスをコピー",
+      "copied": "メールアドレスをコピーしました。",
+      "copyFallback": "こちらをコピーしてください：someshmridha.official@gmail.com",
+      "footerNote": "好奇心を出発点に、根拠を大切に。",
+      "backTop": "ページ上部へ ↑",
+      "caseEyebrow": "プロジェクト詳細 / SOMESH MRIDHA",
+      "discuss": "このプロジェクトについて連絡する",
+      "closeCase": "詳細を閉じる",
+      "institution": "所属",
+      "period": "期間・状況",
+      "role": "担当したこと",
+      "tools": "ツール・手法",
+      "problem": "取り組んだ問い",
+      "implementation": "実装・検証の内容",
+      "evidence": "結果と解釈",
+      "limitations": "範囲と限界",
+      "takeaway": "工学的な学び",
+      "dataHeading": "数値で確かめる",
+      "dataCaption": "軌跡RMSEの平均値（Hz）。各条件200フレームの対応のある比較。小数第3位に丸めて表示。出典：2026年10月の平滑化アブレーション実験 Estimator_Summary.csv。チャネルはメインページで選択できます。",
+      "tableSNR": "SNR（dB）",
+      "chartX": "SNR / dB",
+      "chartDesc": "固定の合成マルチパスチャネルにおける、SNRに対する平均ドップラー軌跡RMSE。Raw LSとRaw WLSを比較しています。数値は詳細ページに掲載しています。"
+    }
+  },
+  "cases": {
+    "research": {
+      "en": {
+        "kicker": "01 / COMMUNICATIONS · MASTER’S RESEARCH",
+        "title": "Low-complexity Doppler estimation for LEO satellite OFDM.",
+        "summary": "A receiver-simulation study of how to extract useful frequency information from the cyclic prefix already present in OFDM signals.",
+        "institution": "The University of Osaka",
+        "period": "October 2025–present · Research in progress",
+        "role": "MATLAB receiver simulation, LS/WLS estimator implementation, ablation studies, paired statistical comparisons, and research documentation.",
+        "tools": "MATLAB · QPSK / OFDM · CP correlation · LS / WLS · MMSE equalization · Monte Carlo evaluation",
+        "problem": "Rapid satellite motion introduces a changing frequency offset. The research question is whether cyclic-prefix observations can support accurate Doppler tracking with a simple estimation structure.",
+        "flow": [
+          "QPSK / OFDM",
+          "Multipath + Doppler",
+          "CP observations",
+          "LS / WLS fit",
+          "Compensate + detect"
+        ],
+        "work": [
+          "Built a MATLAB communication chain with synthetic multipath, time-varying Doppler, and additive noise.",
+          "Compared six combinations of least squares, reliability weighting, and observation/weight smoothing across 18 channel/SNR conditions.",
+          "Used 200 paired frames per condition, baseline replay, numerical checks, and confidence intervals to distinguish a promising effect from simulation noise."
+        ],
+        "evidence": "Raw WLS reduced mean trajectory RMSE relative to raw LS at 0 dB in the three-tap and five-tap channels by 19.34% and 29.26%, respectively. Those comparisons survived the RMSE-family multiplicity correction. The advantage was localized; neighbouring SNR conditions did not establish a consistent improvement.",
+        "limits": "These are fixed synthetic-channel simulations with known timing and channel/noise information for equalization. A consistent BER benefit, field performance, realistic NTN-channel validation, and research novelty have not been established. SFO compensation is not implemented.",
+        "takeaway": "A smoother observation is not automatically a better estimate. Controlled ablations showed why a method that looks cleaner can lose useful reliability information. This finding is guiding the next research question."
+      },
+      "ja": {
+        "kicker": "01 / 通信 · 修士研究",
+        "title": "低軌道衛星OFDMの低演算量ドップラー推定。",
+        "summary": "OFDMに含まれるサイクリックプレフィックスから周波数情報を取り出す、受信機シミュレーションの研究です。",
+        "institution": "大阪大学",
+        "period": "2025年10月〜現在 · 研究進行中",
+        "role": "MATLAB受信機シミュレーション、LS/WLS推定器の実装、アブレーション実験、対応のある統計比較、研究記録の作成。",
+        "tools": "MATLAB · QPSK / OFDM · CP相関 · LS / WLS · MMSE等化 · モンテカルロ評価",
+        "problem": "高速で移動する衛星は、時間とともに変化する周波数オフセットを生じさせます。シンプルな推定構造で、CPの観測値からドップラーを正確に追跡できるかを調べています。",
+        "flow": [
+          "QPSK / OFDM",
+          "マルチパス＋ドップラー",
+          "CP観測",
+          "LS / WLS推定",
+          "補償・検出"
+        ],
+        "work": [
+          "合成マルチパス、時変ドップラー、加法性雑音を含むMATLABの通信系を構築しました。",
+          "最小二乗法、信頼度重み、観測値と重みの平滑化を組み合わせた6構成を、18のチャネル・SNR条件で比較しました。",
+          "各条件200の対応フレーム、基準結果の再現、数値検証、信頼区間を用いて効果を評価しました。"
+        ],
+        "evidence": "0 dBの3タップおよび5タップチャネルでは、Raw WLSがRaw LSに対して平均軌跡RMSEをそれぞれ19.34%、29.26%低減しました。これらはRMSE比較群の多重性補正後も支持されました。ただし効果は限定的で、隣接するSNR条件で一貫した改善は確認されていません。",
+        "limits": "固定の合成チャネルを使用し、等化では既知のタイミングとチャネル・雑音情報を利用しています。一貫したBER改善、実環境性能、現実的なNTNチャネルでの検証、新規性は未確立です。SFO補償は未実装です。",
+        "takeaway": "観測値を滑らかにしても、推定が良くなるとは限りません。条件を揃えたアブレーションにより、平滑化で有用な信頼度情報が失われることが分かり、次の研究課題につながっています。"
+      }
+    },
+    "motor": {
+      "en": {
+        "kicker": "02 / CONTROL & AI · UNDERGRADUATE TEAM PROJECT",
+        "title": "Field-oriented PMSM control using reinforcement learning.",
+        "summary": "An undergraduate investigation of learning-based feedback control for a permanent magnet synchronous motor, developed in MATLAB/Simulink.",
+        "institution": "Vellore Institute of Technology · Supervisor: Dr. Vijayapriya P",
+        "period": "July–November 2024 · Completed academic project",
+        "role": "Contributed across modelling, controller implementation, RL training, simulation testing, analysis, and report preparation as part of a three-person team.",
+        "tools": "MATLAB · Simulink · Reinforcement Learning Toolbox · FOC · SVPWM · PI-controller comparison",
+        "problem": "Conventional motor control depends on controller tuning. This project explored how an RL-based controller could respond to motor feedback and regulate a PMSM within a field-oriented control structure.",
+        "flow": [
+          "Speed reference",
+          "RL / PI control",
+          "FOC + SVPWM",
+          "PMSM model",
+          "Current / speed feedback"
+        ],
+        "work": [
+          "Worked on the PMSM simulation, the field-oriented control structure, and space-vector pulse-width modulation.",
+          "Contributed to defining observations, control actions, and the reward used to train the RL controller.",
+          "Compared simulated motor behaviour with a conventional PI controller using speed, current, torque, and training-response plots."
+        ],
+        "evidence": "The project report documents the control architecture and simulated responses for the learning-based and PI-based approaches. The portfolio presents this as experience in modelling and controller evaluation; it does not claim a verified percentage improvement or deployment-ready control.",
+        "limits": "Simulation-based undergraduate work, without demonstrated hardware validation. The project demonstrates modelling and controller-evaluation experience; no verified performance percentage or industrial readiness is claimed.",
+        "takeaway": "Intelligent control still depends on sound modelling, useful feedback, and a fair baseline. Building the complete loop helped connect control theory with practical simulation work."
+      },
+      "ja": {
+        "kicker": "02 / 制御・AI · 学部チームプロジェクト",
+        "title": "強化学習を用いたPMSMのベクトル制御。",
+        "summary": "MATLAB/Simulinkで永久磁石同期モーターの学習型フィードバック制御を検討した学部プロジェクトです。",
+        "institution": "Vellore Institute of Technology · 指導：Dr. Vijayapriya P",
+        "period": "2024年7月〜11月 · 学部プロジェクト完了",
+        "role": "3人のチームの一員として、モデリング、制御器実装、RL学習、シミュレーション検証、分析、報告書作成に幅広く携わりました。",
+        "tools": "MATLAB · Simulink · Reinforcement Learning Toolbox · FOC · SVPWM · PI制御との比較",
+        "problem": "従来のモーター制御では制御器の調整が重要です。本プロジェクトでは、ベクトル制御構造の中でRL制御器がフィードバックに応じてPMSMを制御する方法を検討しました。",
+        "flow": [
+          "速度指令",
+          "RL / PI制御",
+          "FOC + SVPWM",
+          "PMSMモデル",
+          "電流・速度の帰還"
+        ],
+        "work": [
+          "PMSMのシミュレーション、ベクトル制御構造、空間ベクトルPWMに取り組みました。",
+          "RL制御器の観測値、制御入力、学習用報酬の設定に携わりました。",
+          "速度、電流、トルク、学習応答のグラフを用いて、従来のPI制御と比較しました。"
+        ],
+        "evidence": "報告書には制御構造と、学習型制御およびPI制御のシミュレーション応答が記録されています。ここではモデリングと制御器評価の経験として紹介し、検証済みの改善率や実運用可能性は主張していません。",
+        "limits": "ハードウェアでの検証を示していない、学部段階のシミュレーション研究です。モデリングと制御器評価の経験として紹介しており、検証済みの改善率や実運用への適合性は主張していません。",
+        "takeaway": "知的制御にも、適切なモデル、有用なフィードバック、公平な比較基準が欠かせません。制御ループ全体の構築を通じて、理論とシミュレーションを結び付けました。"
+      }
+    },
+    "energy": {
+      "en": {
+        "kicker": "03 / ENERGY · UNDERGRADUATE TEAM PROJECT",
+        "title": "Solar PV-fed wireless EV charging simulation.",
+        "summary": "A system-level MATLAB/Simulink project connecting renewable generation, high-frequency wireless power transfer, and regulated battery charging.",
+        "institution": "Vellore Institute of Technology · Supervisor: Dr. Vijayapriya P",
+        "period": "December 2024–April 2025 · Completed academic project",
+        "role": "Contributed across system modelling, converter and control implementation, integration, simulation testing, results analysis, and reporting in a two-person team.",
+        "tools": "MATLAB · Simulink · Solar PV · DC–DC conversion · 100 kHz inverter · Inductive power transfer",
+        "problem": "How can solar generation, a backup source, power conversion, and wireless transfer be integrated into a controllable EV-battery charging simulation?",
+        "flow": [
+          "PV / backup supply",
+          "DC conditioning",
+          "100 kHz inverter",
+          "Wireless coupling",
+          "Rectifier + buck",
+          "Battery model"
+        ],
+        "work": [
+          "Worked on a modular chain covering PV generation, source switching, power conversion, a coupled-coil link, rectification, and battery charging.",
+          "Implemented load-detection logic that disables inverter switching when the load is absent.",
+          "Evaluated simulated response to irradiance changes, power conversion, output-voltage regulation, and battery-model behaviour; long-duration charging remains unvalidated."
+        ],
+        "evidence": "The report records approximately 58 V at the charging output, with 50 W input and 46.4 W output at one reported simulation operating point, giving 92.8% calculated transfer/conversion efficiency. This is a model result for that operating point, not measured hardware performance or solar-to-battery efficiency.",
+        "limits": "The implemented scope was static wireless transfer; moving-vehicle charging was not demonstrated despite the original report title. Idealized components, simplified battery behaviour, and limited treatment of coil misalignment and thermal effects restrict real-world conclusions.",
+        "takeaway": "The strongest lesson was system integration: each conversion stage and control decision affects the full energy chain. A modular simulation makes those interactions easier to test and explain."
+      },
+      "ja": {
+        "kicker": "03 / エネルギー · 学部チームプロジェクト",
+        "title": "太陽光発電によるEVワイヤレス充電のシミュレーション。",
+        "summary": "再生可能エネルギー、高周波ワイヤレス電力伝送、電圧調整されたバッテリー充電をつなぐMATLAB/Simulinkのプロジェクトです。",
+        "institution": "Vellore Institute of Technology · 指導：Dr. Vijayapriya P",
+        "period": "2024年12月〜2025年4月 · 学部プロジェクト完了",
+        "role": "2人のチームで、システムモデリング、変換器・制御の実装、統合、シミュレーション検証、結果分析、報告書作成に幅広く携わりました。",
+        "tools": "MATLAB · Simulink · 太陽光発電 · DC–DC変換 · 100 kHzインバータ · 誘導結合電力伝送",
+        "problem": "太陽光発電、バックアップ電源、電力変換、ワイヤレス伝送を、制御可能なEVバッテリー充電モデルとしてどう統合するかを検討しました。",
+        "flow": [
+          "PV・予備電源",
+          "DC調整",
+          "100 kHzインバータ",
+          "ワイヤレス結合",
+          "整流・降圧",
+          "バッテリーモデル"
+        ],
+        "work": [
+          "太陽光発電、電源切替、電力変換、結合コイル、整流、充電を含むモジュール構成に取り組みました。",
+          "負荷がない場合にインバータのスイッチングを停止する負荷検出ロジックを実装しました。",
+          "日射量変化、電力変換、出力電圧調整、バッテリー充電のシミュレーション応答を評価しました。"
+        ],
+        "evidence": "報告書のある動作点では、充電出力は約58 V、入力50 Wに対して出力46.4 Wで、伝送・変換の計算効率は92.8%でした。これはその動作点でのモデル結果であり、実機測定や太陽光からバッテリーまでの総合効率ではありません。",
+        "limits": "実装範囲は静止状態のワイヤレス伝送で、走行中の充電は実証していません。理想化部品、簡略化したバッテリー、コイル位置ずれや熱影響の限定的な扱いにより、実環境への適用には限界があります。",
+        "takeaway": "最も大きな学びは、システム全体の統合です。各変換段と制御判断がエネルギーの流れ全体に影響するため、モジュール化したモデルが相互作用の検証と説明に役立ちました。"
+      }
+    }
+  },
+  "portfolioEvidence": {
+    "labels": {
+      "en": {
+        "recognitionEyebrow": "EARLIER ACHIEVEMENTS",
+        "recognitionTitle": "Competition achievements.",
+        "nsoResult": "First place · Interschool competition",
+        "spellResult": "State-level finalist",
+        "academicEyebrow": "ACADEMIC FOUNDATION",
+        "academicTitle": "Now in Osaka. Built on VIT.",
+        "currentUniversity": "CURRENT UNIVERSITY · MASTER’S STUDENT",
+        "previousUniversity": "PREVIOUS UNIVERSITY · BACHELOR’S COMPLETED",
+        "osakaProgram": "Electrical, Electronic and Infocommunications Engineering",
+        "vitProgram": "Electrical and Electronics Engineering",
+        "osakaPeriod": "October 2025–September 2027 (expected)",
+        "vitPeriod": "2021–2025 · Vellore, India",
+        "osakaScoreLabel": "Current GPA",
+        "vitScoreLabel": "Final CGPA",
+        "academicNote": "My admission to Osaka was featured in VIT’s School of Electrical Engineering newsletter.",
+        "academicLink": "Read the university newsletter ↗",
+        "heroAcademic": "Master’s student · The University of Osaka | B.Tech graduate · VIT Vellore",
+        "evidenceEyebrow": "A LOOK INSIDE THE WORK",
+        "evidenceTitle": "Models built. Results examined.",
+        "evidenceIntro": "Original figures from my project reports and research exports. Open a case study for the method, results, and limitations.",
+        "evidenceResearch": "Research: six estimators, three synthetic channels",
+        "evidenceMotor": "Control: the implemented Simulink model",
+        "evidenceEnergy": "Energy: the simulated charging output",
+        "originalFigure": "Original project figure",
+        "openStudy": "Explore the evidence ↗",
+        "learningEyebrow": "CONTINUING TO LEARN",
+        "learningTitle": "A wider engineering perspective.",
+        "learningIntro": "Selected courses and leadership activities shared on my LinkedIn profile.",
+        "coursePower": "Introduction to Power System Softwares",
+        "coursePowerText": "VIT · Value-Added Program · 10/10",
+        "courseCyber": "Introduction to Forms of Cyber Security",
+        "courseCyberText": "VIT · Course completion",
+        "courseConservation": "Conservation Economics",
+        "courseConservationText": "NPTEL / IIT Kanpur · 88%",
+        "courseEcology": "Wildlife Ecology",
+        "courseEcologyText": "NPTEL / IIT Kanpur · 99%",
+        "learningSource": "View the learning records on LinkedIn ↗",
+        "galleryTitle": "Inside the implementation & results",
+        "galleryIntro": "Original figures, preserved from the academic reports and simulation exports. Open any image at its original resolution.",
+        "openImage": "Open original image ↗",
+        "parametersTitle": "Study settings & reported values",
+        "parameter": "Setting / quantity",
+        "value": "Value / interpretation",
+        "decisionsTitle": "Engineering decisions & validation",
+        "csvLink": "Download the plotted research data · CSV",
+        "csvNote": "18 channel/SNR rows. Original RMSE values for raw LS and raw WLS, with 200 paired frames per condition.",
+        "currentGpa": "Current GPA: 3.71/4.00 · confirmed November 2026",
+        "finalCgpa": "Final CGPA: 7.75/10.00",
+        "currentUniTimeline": "CURRENT UNIVERSITY",
+        "pastUniTimeline": "COMPLETED DEGREE"
+      },
+      "ja": {
+        "recognitionEyebrow": "これまでの実績",
+        "recognitionTitle": "コンテストでの実績。",
+        "nsoResult": "校際大会 第1位",
+        "spellResult": "州大会ファイナリスト",
+        "academicEyebrow": "学びの基盤",
+        "academicTitle": "VITから、大阪での研究へ。",
+        "currentUniversity": "現在の所属 · 修士課程",
+        "previousUniversity": "以前の所属 · 学士課程修了",
+        "osakaProgram": "電気・電子・情報通信工学分野",
+        "vitProgram": "電気電子工学",
+        "osakaPeriod": "2025年10月〜2027年9月（修了予定）",
+        "vitPeriod": "2021年〜2025年 · インド・ヴェールール",
+        "osakaScoreLabel": "現在のGPA",
+        "vitScoreLabel": "最終CGPA",
+        "academicNote": "大阪大学への進学が、VIT電気工学部のニュースレターで紹介されました。",
+        "academicLink": "大学のニュースレターを見る ↗",
+        "heroAcademic": "大阪大学 修士課程在籍 ｜ VIT Vellore 工学学士",
+        "evidenceEyebrow": "実際の取り組みから",
+        "evidenceTitle": "つくったモデルと、確かめた結果。",
+        "evidenceIntro": "プロジェクト報告書と研究出力から選んだ実際の図です。詳細では手法、結果、限界を紹介しています。",
+        "evidenceResearch": "研究：6構成の推定器と3つの合成チャネル",
+        "evidenceMotor": "制御：実装したSimulinkモデル",
+        "evidenceEnergy": "エネルギー：充電出力のシミュレーション",
+        "originalFigure": "元のプロジェクト資料の図",
+        "openStudy": "根拠を詳しく見る ↗",
+        "learningEyebrow": "学び続ける",
+        "learningTitle": "工学を、幅広い視点から。",
+        "learningIntro": "LinkedInで公開している講座受講とリーダーシップの記録から。",
+        "coursePower": "電力系統ソフトウェア入門",
+        "coursePowerText": "VIT · 付加価値プログラム · 10/10",
+        "courseCyber": "サイバーセキュリティの形態入門",
+        "courseCyberText": "VIT · 講座修了",
+        "courseConservation": "保全経済学",
+        "courseConservationText": "NPTEL / IIT Kanpur · 88%",
+        "courseEcology": "野生生物生態学",
+        "courseEcologyText": "NPTEL / IIT Kanpur · 99%",
+        "learningSource": "LinkedInで受講記録を見る ↗",
+        "galleryTitle": "実装と結果を、図で見る",
+        "galleryIntro": "報告書とシミュレーション出力の元の図を掲載しています。各画像から元の解像度で確認できます。",
+        "openImage": "元の画像を開く ↗",
+        "parametersTitle": "検証条件と報告された数値",
+        "parameter": "条件・指標",
+        "value": "値・解釈",
+        "decisionsTitle": "設計上の判断と検証",
+        "csvLink": "研究グラフのデータをダウンロード · CSV",
+        "csvNote": "18のチャネル・SNR条件。各条件200の対応フレームによるRaw LS・Raw WLSの元のRMSE値です。",
+        "currentGpa": "現在のGPA：3.71/4.00 · 2026年11月確認",
+        "finalCgpa": "最終CGPA：7.75/10.00",
+        "currentUniTimeline": "現在の所属",
+        "pastUniTimeline": "学位取得済み"
+      }
+    },
+    "galleries": {
+      "research": [
+        {
+          "file": "osaka-rmse-original.png",
+          "en": [
+            "Full estimator comparison",
+            "Six estimator variants across three fixed synthetic channels and six SNR levels. Raw weighting helps at selected 0 dB conditions; the curves do not establish superiority across the whole SNR range.",
+            "Original MATLAB export · Figure 01 · October 2026"
+          ],
+          "ja": [
+            "推定器の全構成を比較",
+            "3つの固定合成チャネル、6つのSNRで6構成を比較。特定の0 dB条件ではRaw WLSが有効ですが、SNR全域での優位性を示すものではありません。",
+            "元のMATLAB出力 · 図01 · 2026年10月"
+          ]
+        },
+        {
+          "file": "osaka-ber-original.png",
+          "en": [
+            "Receiver-level error performance",
+            "BER after common-phase-error correction. This check matters because improved frequency-estimation RMSE did not establish a consistent final BER advantage.",
+            "Original MATLAB export · Figure 05 · October 2026"
+          ],
+          "ja": [
+            "受信機全体の誤り率",
+            "共通位相誤差補正後のBERです。周波数推定RMSEの改善が、一貫した最終BER改善につながっていないことを確認しています。",
+            "元のMATLAB出力 · 図05 · 2026年10月"
+          ]
+        },
+        {
+          "file": "osaka-acf-original.png",
+          "en": [
+            "What smoothing changes",
+            "Five-tap-channel observation-error autocorrelation across six SNR levels. Smoothed errors have strong temporal dependence, while the raw-error curve remains close to zero.",
+            "Original MATLAB export · Figure 08 · October 2026"
+          ],
+          "ja": [
+            "平滑化で何が変わるか",
+            "5タップチャネルの観測誤差の自己相関を6つのSNRで表示。平滑化後は強い時間的依存があり、未処理の誤差の相関はほぼゼロです。",
+            "元のMATLAB出力 · 図08 · 2026年10月"
+          ]
+        }
+      ],
+      "motor": [
+        {
+          "file": "motor-simulink.png",
+          "en": [
+            "The motor-control implementation",
+            "The original Simulink control model, including coordinate transformations, the motor model, and control-signal generation.",
+            "Undergraduate report · Figure 2 · PDF page 31"
+          ],
+          "ja": [
+            "モーター制御の実装",
+            "座標変換、モーターモデル、制御信号生成を含む元のSimulinkモデルです。",
+            "学部報告書 · 図2 · PDF 31ページ"
+          ]
+        },
+        {
+          "file": "motor-rl-training.jpeg",
+          "en": [
+            "Connecting the agent and environment",
+            "The original training-stage screenshot shows observations, reward, termination logic, and the RL agent’s control actions.",
+            "Undergraduate report · Figure 3 · PDF page 31"
+          ],
+          "ja": [
+            "エージェントと環境の接続",
+            "観測、報酬、終了条件、RLエージェントの制御入力を接続した学習段階の元の図です。",
+            "学部報告書 · 図3 · PDF 31ページ"
+          ]
+        },
+        {
+          "file": "motor-pi-speed.png",
+          "en": [
+            "PI-controller speed response",
+            "Original actual/reference speed plot in per-unit values. Its reference profile differs from the RL plot, so these figures are not a matched performance benchmark.",
+            "Undergraduate report · Figure 4 · PDF page 32"
+          ],
+          "ja": [
+            "PI制御器の速度応答",
+            "実速度・指令速度の元のp.u.グラフです。RLの図と指令が異なるため、同一条件での性能比較ではありません。",
+            "学部報告書 · 図4 · PDF 32ページ"
+          ]
+        },
+        {
+          "file": "motor-rl-speed.png",
+          "en": [
+            "Learning-based controller response",
+            "Original RL speed response to a changed reference. It illustrates tracking and transient behaviour; a fair quantified comparison needs identical reference, load, and tuning conditions.",
+            "Undergraduate report · Figure 7 · PDF page 33"
+          ],
+          "ja": [
+            "学習型制御器の速度応答",
+            "指令変化に対する元のRL速度応答です。追従と過渡応答を示しますが、定量比較には同一の指令・負荷・調整条件が必要です。",
+            "学部報告書 · 図7 · PDF 33ページ"
+          ]
+        },
+        {
+          "file": "motor-stator-current.jpeg",
+          "en": [
+            "Current behaviour during the transient",
+            "Three stator-current traces expose the transient as well as subsequent oscillation. The original axes and scaling are retained.",
+            "Undergraduate report · Figure 5 · PDF page 33"
+          ],
+          "ja": [
+            "過渡時の電流挙動",
+            "3相の固定子電流から過渡変化とその後の振動を確認できます。元の軸とスケールを保持しています。",
+            "学部報告書 · 図5 · PDF 33ページ"
+          ]
+        }
+      ],
+      "energy": [
+        {
+          "file": "ev-source-model.png",
+          "en": [
+            "Generation and power-conversion model",
+            "Original source-side Simulink screenshot: the PV/backup supply and conversion chain integrated in the project.",
+            "Undergraduate report · Figure 6.1 · PDF page 29"
+          ],
+          "ja": [
+            "発電・電力変換モデル",
+            "PV・バックアップ電源と変換系を統合した、送電側の元のSimulink画面です。",
+            "学部報告書 · 図6.1 · PDF 29ページ"
+          ]
+        },
+        {
+          "file": "ev-receiver-model.png",
+          "en": [
+            "From wireless coupling to the battery",
+            "The receiver-side model connects the wireless link to rectification, DC conditioning, and the battery model.",
+            "Undergraduate report · Figure 6.2 · PDF page 30"
+          ],
+          "ja": [
+            "ワイヤレス結合からバッテリーへ",
+            "ワイヤレス伝送と整流、DC調整、バッテリーモデルを接続した受電側の構成です。",
+            "学部報告書 · 図6.2 · PDF 30ページ"
+          ]
+        },
+        {
+          "file": "ev-load-detection.png",
+          "en": [
+            "Smart load-detection logic",
+            "The original logic screenshot shows threshold-based switching used to control operation when the load is present or absent.",
+            "Undergraduate report · Figure 6.11 · PDF page 34"
+          ],
+          "ja": [
+            "負荷検出の制御ロジック",
+            "負荷の有無に応じて動作を制御する、しきい値ベースの切替ロジックの元の図です。",
+            "学部報告書 · 図6.11 · PDF 34ページ"
+          ]
+        },
+        {
+          "file": "ev-rectifier-output.png",
+          "en": [
+            "Rectified output",
+            "The original scope trace shows the DC output after rectification, including startup variation. It is a simulation trace, not a hardware measurement.",
+            "Undergraduate report · Figure 6.15 · PDF page 37"
+          ],
+          "ja": [
+            "整流後の出力",
+            "起動時の変化を含む、整流後のDC出力の元の波形です。実機測定ではなくシミュレーション結果です。",
+            "学部報告書 · 図6.15 · PDF 37ページ"
+          ]
+        },
+        {
+          "file": "ev-buck-output.png",
+          "en": [
+            "Regulated charging output",
+            "The original scope screenshot shows the buck-converter output settling near 58 V over the displayed simulation interval. This validates a voltage operating point, not long-duration charging or hardware safety.",
+            "Undergraduate report · Figure 6.16 · PDF page 38"
+          ],
+          "ja": [
+            "電圧調整された充電出力",
+            "表示区間では降圧コンバータ出力が約58 Vに落ち着いています。電圧の動作点を示すもので、長時間充電や実機安全性の検証ではありません。",
+            "学部報告書 · 図6.16 · PDF 38ページ"
+          ]
+        }
+      ]
+    },
+    "parameters": {
+      "research": {
+        "en": [
+          [
+            "Estimators",
+            "6 variants: raw/smoothed LS and four WLS processing combinations"
+          ],
+          [
+            "Synthetic channels",
+            "ThreeTap, TwoTap, FiveTap · fixed multipath profiles"
+          ],
+          [
+            "SNR sweep",
+            "0, 4, 8, 12, 16, 20 dB"
+          ],
+          [
+            "Evaluation size",
+            "200 paired frames × 18 conditions = 3,600 frames"
+          ],
+          [
+            "Primary checks",
+            "Trajectory RMSE, BER, paired intervals, and numerical consistency"
+          ]
+        ],
+        "ja": [
+          [
+            "推定器",
+            "未処理・平滑化LSと4つのWLS構成、計6構成"
+          ],
+          [
+            "合成チャネル",
+            "ThreeTap・TwoTap・FiveTapの固定マルチパス"
+          ],
+          [
+            "SNR条件",
+            "0、4、8、12、16、20 dB"
+          ],
+          [
+            "評価規模",
+            "200対応フレーム × 18条件 = 3,600フレーム"
+          ],
+          [
+            "評価項目",
+            "軌跡RMSE、BER、対応比較の区間、数値的一貫性"
+          ]
+        ]
+      },
+      "motor": {
+        "en": [
+          [
+            "Control structure",
+            "Field-oriented control with space-vector PWM"
+          ],
+          [
+            "Learning interface",
+            "Observed motor states/errors → control actions → reward"
+          ],
+          [
+            "Baseline",
+            "Conventional PI-controller simulation"
+          ],
+          [
+            "Recorded outputs",
+            "Speed tracking, stator current, and load torque"
+          ],
+          [
+            "Comparison limit",
+            "Original speed plots use different reference profiles; no normalized gain claimed"
+          ]
+        ],
+        "ja": [
+          [
+            "制御構造",
+            "ベクトル制御と空間ベクトルPWM"
+          ],
+          [
+            "学習の接続",
+            "状態・誤差の観測 → 制御入力 → 報酬"
+          ],
+          [
+            "比較対象",
+            "従来のPI制御シミュレーション"
+          ],
+          [
+            "記録した出力",
+            "速度追従、固定子電流、負荷トルク"
+          ],
+          [
+            "比較の限界",
+            "元の速度図では指令が異なるため、改善率は示していません"
+          ]
+        ]
+      },
+      "energy": {
+        "en": [
+          [
+            "Irradiance profile",
+            "250–750 W/m², as reported"
+          ],
+          [
+            "Backup supply",
+            "100 V DC"
+          ],
+          [
+            "Inverter switching",
+            "100 kHz"
+          ],
+          [
+            "Regulated output",
+            "Approximately 58 V in the reported simulation"
+          ],
+          [
+            "One reported power point",
+            "50 W input → 46.4 W output; calculated ratio 92.8%"
+          ],
+          [
+            "Implemented scope",
+            "Static wireless transfer; no in-motion charging demonstration"
+          ]
+        ],
+        "ja": [
+          [
+            "日射量条件",
+            "報告値：250〜750 W/m²"
+          ],
+          [
+            "バックアップ電源",
+            "100 V DC"
+          ],
+          [
+            "インバータ周波数",
+            "100 kHz"
+          ],
+          [
+            "調整後の出力",
+            "報告されたシミュレーションで約58 V"
+          ],
+          [
+            "ある動作点の電力",
+            "入力50 W → 出力46.4 W、計算比率92.8%"
+          ],
+          [
+            "実装範囲",
+            "静止状態のワイヤレス伝送。走行中充電の実証は含みません"
+          ]
+        ]
+      }
+    },
+    "decisions": {
+      "research": {
+        "en": [
+          [
+            "Reuse information already in the waveform",
+            "CP-based observations offer frequency information without introducing a new synchronization waveform in this simulation."
+          ],
+          [
+            "Keep comparisons paired",
+            "Estimator variants process matched simulated frames so random channel/noise realizations do not dominate the comparison."
+          ],
+          [
+            "Test the end receiver",
+            "RMSE and BER are evaluated separately. A frequency-tracking improvement is not reported as a proven communication-level benefit."
+          ]
+        ],
+        "ja": [
+          [
+            "波形に既にある情報を使う",
+            "このシミュレーションでは、新たな同期波形を加えずにCPから周波数情報を取り出します。"
+          ],
+          [
+            "対応する条件で比較する",
+            "同じシミュレーションフレームで各推定器を評価し、乱数による違いの影響を抑えます。"
+          ],
+          [
+            "受信機全体も確かめる",
+            "RMSEとBERを分けて評価し、周波数追跡の改善を通信性能の実証済み改善とは扱いません。"
+          ]
+        ]
+      },
+      "motor": {
+        "en": [
+          [
+            "Connect physical and learning models",
+            "The motor, coordinate transformations, PWM, and feedback need a consistent interface before an agent can be trained."
+          ],
+          [
+            "Make the training loop explicit",
+            "Observation, reward, action, and termination blocks make the control objective visible in the model."
+          ],
+          [
+            "Separate demonstration from a fair benchmark",
+            "The original plots document operation, but different reference profiles prevent a defensible numerical superiority claim."
+          ]
+        ],
+        "ja": [
+          [
+            "物理モデルと学習モデルを接続",
+            "学習に入る前に、モーター、座標変換、PWM、帰還のインターフェースを整えます。"
+          ],
+          [
+            "学習ループを明示する",
+            "観測、報酬、行動、終了条件のブロックで、制御目的をモデル上で確認できるようにします。"
+          ],
+          [
+            "動作例と公平な比較を区別",
+            "元の図は動作を示しますが、指令条件が異なるため定量的な優位性は主張しません。"
+          ]
+        ]
+      },
+      "energy": {
+        "en": [
+          [
+            "Integrate in stages",
+            "The model separates generation, source switching, inversion, coupling, rectification, and buck conversion so each stage can be inspected."
+          ],
+          [
+            "Control unnecessary operation",
+            "Load-detection logic gates inverter operation rather than treating the power-transfer chain as permanently active."
+          ],
+          [
+            "Distinguish voltage regulation from charging validation",
+            "The output trace supports the voltage operating point. Sustained battery charging, alignment sensitivity, and hardware protection require further validation."
+          ]
+        ],
+        "ja": [
+          [
+            "段階ごとに統合する",
+            "発電、電源切替、インバータ、結合、整流、降圧を分け、各段を確認できる構成にしています。"
+          ],
+          [
+            "不要な動作を制御する",
+            "常時送電とせず、負荷検出でインバータの動作を制御します。"
+          ],
+          [
+            "電圧調整と充電検証を区別する",
+            "出力波形は電圧動作点を示します。持続的な充電、位置ずれ、実機保護には追加検証が必要です。"
+          ]
+        ]
+      }
+    }
+  }
+}
