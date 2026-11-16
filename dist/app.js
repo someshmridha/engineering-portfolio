@@ -17,6 +17,9 @@ const snr=[0,4,8,12,16,20];
 Object.assign(translations.en,portfolioEvidence.labels.en,{navEducation:'Education'});
 Object.assign(translations.ja,portfolioEvidence.labels.ja,{navEducation:'学歴'});
 const supportedLanguages=['en','hi','bn','ta','ja','sa'];
+Object.assign(translations.en,{"profilesLabel":"Professional profiles","githubLabel":"PROJECT FILES & CODE"});
+Object.assign(translations.ja,{"profilesLabel":"プロフィール","githubLabel":"プロジェクトファイル・コード"});
+
 Object.assign(translations.en,{
  chooseLanguage:'Choose language',navLabel:'Main navigation',projectFilterLabel:'Filter projects',flowLabel:'System flow',rawLS:'Raw LS',rawWLS:'Raw WLS',
  channel5:'5-tap channel',channel3:'3-tap channel',channel2:'2-tap channel',
