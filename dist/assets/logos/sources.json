@@ -1,0 +1,74 @@
+[
+  {
+    "file": "osaka.svg",
+    "organization": "The University of Osaka",
+    "asset_url": "https://www.osaka-u.ac.jp/assets/images/footer/logo.svg",
+    "source_page": "https://www.osaka-u.ac.jp/en/guide/name-logo",
+    "retrieved": "2026-11-04",
+    "sha256": "39f4565a778756fa9cd0c54b9933f95a29a24c84dbc1e12edf016002fa74b0e8",
+    "bytes": 1457
+  },
+  {
+    "file": "vit.webp",
+    "organization": "Vellore Institute of Technology",
+    "asset_url": "https://vit.ac.in/wp-content/uploads/2023/06/header-logo.webp",
+    "source_page": "https://vit.ac.in/",
+    "retrieved": "2026-11-04",
+    "sha256": "730ff5dcf470717f4d38dd9fe7e4520f1cc7f0526d43440a02b9ad79f73095b8",
+    "bytes": 124814
+  },
+  {
+    "file": "cesc.png",
+    "organization": "CESC",
+    "asset_url": "https://www.cesc.co.in/images/cesc-logo.png",
+    "source_page": "https://www.cesc.co.in/",
+    "retrieved": "2026-11-04",
+    "sha256": "a3b2cbf6a0f23151b4385c7f02f1eb071eca8d8bddf328518844bdeffff2aba0",
+    "bytes": 3577
+  },
+  {
+    "file": "nptel.jpg",
+    "organization": "NPTEL",
+    "asset_url": "https://nptel.ac.in/_app/immutable/assets/logo-m.CNHeS_sM.jpg",
+    "source_page": "https://nptel.ac.in/",
+    "retrieved": "2026-11-04",
+    "sha256": "91d8de7cdb752063051c92fac224c27baa5b0a448dbcc529fc53ef0d827e8240",
+    "bytes": 5148
+  },
+  {
+    "file": "iit-kanpur.png",
+    "organization": "Indian Institute of Technology Kanpur",
+    "asset_url": "https://nptel.ac.in/assets/homepage-v3/logo-iit-kanpur.png",
+    "source_page": "https://nptel.ac.in/",
+    "retrieved": "2026-11-04",
+    "sha256": "80d25ceceb87182bd9f6cdda69aa78340ee675c918ee103988996c13da7aaa34",
+    "bytes": 19423
+  },
+  {
+    "file": "vitmas.png",
+    "organization": "VIT Mathematical Association",
+    "asset_url": "https://media.licdn.com/dms/image/v2/C560BAQFhxpUgeoXcOQ/company-logo_200_200/company-logo_200_200/0/1630646666919?e=2147483647&v=beta&t=u8BrPuhAZUhIRM3v72210l1OYcFQviq0S74-oiCfsyI",
+    "source_page": "https://www.linkedin.com/company/vit-mathematical-association-student-chapter",
+    "retrieved": "2026-11-04",
+    "sha256": "7ebda56dc64d6d1872eb34f584d0ed513f1bc00b92917e9439c05f986c9a9061",
+    "bytes": 12626
+  },
+  {
+    "file": "wiz-spell-bee.png",
+    "organization": "WIZ Spell Bee",
+    "asset_url": "https://wizspellbee.com/spellee_asset/imgs/logo_web.png",
+    "source_page": "https://wizspellbee.com/spellbee/faq",
+    "retrieved": "2026-11-04",
+    "sha256": "42cd8d88c0ce56e573b64432155e5c06f7fba8df58128290a959807b28ac9aef",
+    "bytes": 115022
+  },
+  {
+    "file": "sof.jpg",
+    "organization": "Science Olympiad Foundation",
+    "asset_url": "https://d3q0c4wmynnr7l.cloudfront.net/sof_logo-2.jpg",
+    "source_page": "https://sofworld.org/soflogo",
+    "retrieved": "2026-11-04",
+    "sha256": "429e1e3eeebf4a6a67f2f4d3929264cb7fe88bff809026ec5509b0fd84783eac",
+    "bytes": 6258
+  }
+]
